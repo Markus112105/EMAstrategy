@@ -21,9 +21,3 @@ The strategy involves the following steps:
 4. Calculate EMAs for the stock using a range of time periods and store them in the DataFrame.
 5. Iterate through each date in the DataFrame and compare EMAs to determine buy or sell signals.
 6. Calculate and print various statistics based on the trading results.
-
-## Disclaimer
-
-This program is for educational purposes only and should not be used for actual stock trading. The accuracy of the strategy or the results it produces cannot be guaranteed. Trading stocks involves risks, and it is advisable to consult with a financial professional before making any investment decisions.
-
-# EMA_Trading_Strategy
